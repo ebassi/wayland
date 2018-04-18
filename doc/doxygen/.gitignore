@@ -2,3 +2,4 @@ doxygen_sqlite3.db
 html/
 wayland.doxygen
 xml/
+!xml/meson.build
